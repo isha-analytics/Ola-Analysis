@@ -21,6 +21,6 @@ Power BI – Dashboard design and data visualization
 
 Excel – Basic data cleaning and preprocessing
 
-📊 Dashboard Preview
+📊 Dashboard Preview Of One Button
 
-https://github.com/isha-analytics/Ola-Analysis/blob/main/ola%20screenshot.png
+<img src="https://github.com/isha-analytics/Ola-Analysis/blob/main/ola%20screenshot.png"/>
