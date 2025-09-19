@@ -23,4 +23,4 @@ Excel – Basic data cleaning and preprocessing
 
 📊 Dashboard Preview
 
-(https://github.com/isha-analytics/Ola-Analysis/blob/main/ola%20screenshot.png)
+https://github.com/isha-analytics/Ola-Analysis/blob/main/ola%20screenshot.png
